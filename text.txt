@@ -1,0 +1,31 @@
+GN-z11: grating CIII] EW = 10 A, prism CIII] EW = 16 A
+
+stack:
+z = 6.5 - 7.0 (6.7):
+	grating: [OIII]+Hb EW = 851+/-7 A, CIII] EW = 7.7+/-1.0 A
+	prism: [OIII]+Hb EW = 1088+/-25 A, CIII] EW = 5.4+/-1.4 A
+z = 7.0 - 8.0 (7.3):
+	grating: [OIII]+Hb EW = 880+/-14 A, CIII] EW = 12.2+/-1.5 A
+	prism: [OIII]+Hb EW = 1155+/-29 A, CIII] EW = 10.2+/-1.7 A
+z = 8.0 - 9.0 (8.5):
+	grating: [OIII]+Hb EW = 684+/-19 A, CIII] EW = 10.6+/-1.4 A
+	prism: [OIII]+Hb EW = 1275+/-60 A, CIII] EW = 22.6+/-3.6 A
+z = 9.0 - 13.2 (9.5):
+	grating: [OIII]+Hb EW = 719+/-29 A, CIII] EW = 6.4+/-1.1 A
+	prism: [OIII]+Hb EW = 1230+/-81 A, CIII] EW = 12.4+/-2.8 A
+
+
+                     4.3 hrs         10 hrs         15 hrs
+GHz2         NV   1.1e-18, 13A   7.5e-19, 8.7A   6.1e-19, 7.1A
+prism    [NeIV]   2.9e-19, 13A   1.9e-19, 8.2A   1.5e-19, 6.7A
+          [NeV]   4.0e-19, 36A   2.6e-19,  23A   2.1e-19,  19A
+
+                      10 hrs          15 hrs
+GHz2         NV   2.5e-19, 2.9A   2.0e-19, 2.4A
+grating  [NeIV]   1.1e-19, 5.0A   9.3e-20, 4.1A
+          [NeV]   1.5e-19,  13A   1.2e-19,  11A
+
+
+Electron density:
+JADES-3991: 1907 < 3.686e-19; 1909 = 8.129e-19 2.337e-19; strong 1909 no 1907, strong 3727 weak 3729
+CEERS-1019: strong 1909 weak 1907, strong 3727 weak 3729
